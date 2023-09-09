@@ -1,1 +1,1 @@
-This directory i will be covering the basic practices under Javascript ES6.
+This directory i will be covering the basic practices under Javascript ES6 in depth.
